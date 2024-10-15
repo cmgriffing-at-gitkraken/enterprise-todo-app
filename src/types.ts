@@ -17,4 +17,4 @@ export interface Gadget {
 
 export interface GadgetsResponse {
     gadgets: Gadget[];
-  }
+}
